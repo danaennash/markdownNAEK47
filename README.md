@@ -15,8 +15,6 @@ Haaaay **Welcome**!
   * I'm glad you're alive
   * Don't give up
 
-~~I Came Up.~~ God came through.
-
 #### Go to Da Second Page for more
 
 [Da Second Page](DaSecondPage.md)
