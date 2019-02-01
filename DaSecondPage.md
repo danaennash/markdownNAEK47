@@ -7,8 +7,6 @@
 
 *Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming.*
 
-![Positive Quote](IMG_9452.jpeg)
-
 #### Note to self
 1. Keep Trying
 2. Keep Praying
