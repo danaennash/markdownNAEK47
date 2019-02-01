@@ -13,3 +13,12 @@ Note to self
 5. Be Grateful
 6. Become Better
 
+
+### How to Stay Motivated
+
+Take It One Day at a Time | Surround Yourself With Positivity
+-------------------------   ---------------------------------
+Create a Vision Board | Make S.M.A.R.T. Goals
+Reward Yourself | Believe in Yourself
+Acknowledge Your Positive Attributes | Recognize Your Progress
+Visualize Accomplishing Your Goals | Be Kind to Yourself
