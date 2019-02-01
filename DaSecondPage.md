@@ -1,5 +1,7 @@
 ## But Wait, there's More
 
+##### ~~I Came Up.~~ God came through.
+
 >Empires aren't built in a day.
 >Keep husting.
 
