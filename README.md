@@ -15,7 +15,7 @@ Haaaay **Welcome**!
   * I'm glad you're alive
   * Don't give up
   
-######C Language Prime Example  
+###### C Language Prime Example  
   
 ```C Language Example
 if(BUCK)
