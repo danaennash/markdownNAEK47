@@ -1,7 +1,7 @@
 # markdownNAEK47
-project for markdown challenge
 
-<https://twitter.com/danaennash/>
+
+*Follow me on twitter* <https://twitter.com/danaennash/>
 
 Haaaay **Welcome**!
 
