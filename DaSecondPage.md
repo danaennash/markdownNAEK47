@@ -5,7 +5,7 @@
 
 *Trust the wait. Embrace the uncertainty. Enjoy the beauty of becoming.*
 
-Note to self
+#### Note to self
 1. Keep Trying
 2. Keep Praying
 3. Stay Positive
@@ -14,7 +14,7 @@ Note to self
 6. Become Better
 
 
-### How to Stay Motivated
+#### How to Stay Motivated
 
 Take It One Day at a Time | Surround Yourself With Positivity
 ------------------------- | ---------------------------------
