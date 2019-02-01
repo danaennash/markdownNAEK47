@@ -14,6 +14,14 @@ Haaaay **Welcome**!
   * You're gonna get through this
   * I'm glad you're alive
   * Don't give up
+  
+```C Language Example
+if(BUCK)
+ {
+  KNUCK;
+ }
+ ```
+  
 
 #### Go to Da Second Page for more
 
