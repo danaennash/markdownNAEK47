@@ -1,8 +1,5 @@
 # markdownNAEK47
 
-
-*Follow me on twitter* <https://twitter.com/danaennash/>
-
 Haaaay **Welcome**!
 
 * In case no one told you today:
